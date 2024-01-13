@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: pic1.jpg
+  image: pic2.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Vice-Head at ML Community in Uzbekistan</p>
